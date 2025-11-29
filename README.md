@@ -419,16 +419,6 @@ Hence the technical post-mortem.
 
 ---
 
-## 📈 Public Metrics
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaygond&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaygond&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff)
-
-*Note: Most revenue-generating code lives in private repositories. GitHub activity is a lagging indicator of actual work.*
-
----
-
 ## 🤝 Collaboration & Engagement
 
 ### Ideal Collaborations
