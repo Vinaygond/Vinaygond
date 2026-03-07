@@ -38,4 +38,4 @@ A "hydra-headed" distributed pipeline engineered to bypass enterprise-grade anti
 ---
 
 ## 📫 Connect
-[Website](https://vinaygond.github.io) | [Twitter](https://twitter.com/vvgond) | [LinkedIn](https://linkedin.com/in/vinaygo) | [Email](mailto:vinay@xleadscraper.com)
+[Website](https://vinaygond.github.io) | [Twitter](https://twitter.com/vvgond) | [LinkedIn](https://linkedin.com/in/vinaygo) | [Email](mailto:vinay@exitprotocols.com)
