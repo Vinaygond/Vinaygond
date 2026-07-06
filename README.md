@@ -98,7 +98,7 @@ That pivot now shapes everything I ship — including Exit Protocol, where deter
 
 Open to serious conversations around **senior backend/platform roles**, legal-tech infrastructure, forensic intelligence systems, and technical consulting.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinay--gond-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-gond/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinaygo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaygo/)
 [![Twitter](https://img.shields.io/badge/Twitter-@vvgond-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vvgond)
 [![GitHub](https://img.shields.io/badge/GitHub-Vinaygond-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vinaygond)
 [![Email](https://img.shields.io/badge/Email-vinay%40exitprotocols.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinay@exitprotocols.com)
