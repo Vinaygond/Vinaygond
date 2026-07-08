@@ -49,7 +49,7 @@ After a compliance reset in late 2024, I rebuilt around one principle:
 
 That pivot now shapes everything I ship — including Exit Protocol, where deterministic calculations, clear data boundaries, and reviewable evidence trails are product requirements from day one.
 
-**Public receipts:** [Technical postmortem](https://vinaygond.github.io/2025-11-16-how-i-engineered-a-system-that-bypass-twitter-rate-limits/) · [$500K cease-and-desist story](https://vinaygond.github.io/2025-12-01-The-500K-Tool-That-Got-Me-a-Cease-and-Desist-from-%F0%9F%95%8F/) · [XLeadScraper V2](https://xleadscraper.com)
+**Public receipts:** [$500K C&D Report](https://github.com/Vinaygond/The-500K-C-D-Report) · [Technical postmortem](https://vinaygond.github.io/2025-11-16-how-i-engineered-a-system-that-bypass-twitter-rate-limits/) · [$500K story](https://vinaygond.github.io/2025-12-01-The-500K-Tool-That-Got-Me-a-Cease-and-Desist-from-%F0%9F%95%8F/) · [XLeadScraper V2](https://xleadscraper.com)
 
 ---
 
@@ -88,6 +88,7 @@ That pivot now shapes everything I ship — including Exit Protocol, where deter
 |---|---|
 | [**Exit Protocol**](https://exitprotocols.com) | Forensic litigation intelligence — LIBR tracing, document ingestion, evidence sealing |
 | [**LIBR State Machine Demo**](https://github.com/Vinaygond/libr-state-machine-demo) | Public reference implementation with fixtures and regression tests |
+| [**$500K C&D Report**](https://github.com/Vinaygond/The-500K-C-D-Report) | Structured postmortem — detection layers, V1/V2 pivot, builder lessons |
 | [**Personal site**](https://vinaygond.github.io) | Case studies on distributed systems, legal-tech, and founder lessons |
 | [**XLeadScraper**](https://xleadscraper.com) | High-throughput data infrastructure — V1 scale lessons and V2 compliance rebuild |
 | [**Research paper**](https://vinaygond.github.io/Exit%20Protocol_%20Forensic%20Accounting%20Analysis.pdf) | Algorithmic transformation of forensic accounting |
